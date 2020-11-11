@@ -6,7 +6,7 @@ import './index.scss'
 export default class Index extends Component {
 
   config = {
-    navigationBarTitleText: '长征',
+    navigationBarTitleText: '中共大会',
   }
 
   turnto(path, n) {
@@ -98,8 +98,8 @@ export default class Index extends Component {
         <View> 　　</View>
         <AtList>
           <AtListItem
-            title='突破四道封锁线'
-            note='1934.10.24~1934.11.27'
+            title='党的一大'
+            note='1921.7.23~1921.7.31'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -111,8 +111,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc1/Desc1', 1)}
           />
           <AtListItem
-            title='强渡乌江'
-            note='1935.1.2~1935.1.6 贵州乌江'
+            title='党的二大'
+            note='1922'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -124,8 +124,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc2/Desc2', 2)}
           />
           <AtListItem
-            title='遵义会议'
-            note='1935.1.15~1935.1.17 贵州遵义'
+            title='党的三大'
+            note='1923'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -137,8 +137,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc3/Desc3', 3)}
           />
           <AtListItem
-            title='四渡赤水'
-            note='1935.1.29~1935.3.21 贵州赤水'
+            title='党的四大'
+            note='1925'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -149,9 +149,9 @@ export default class Index extends Component {
             arrow='right'
             onClick={this.turnto.bind(this, '../Desc/Desc4/Desc4', 4)}
           />
-          <AtListItem
-            title='巧渡金沙江'
-            note='1935.5.3~1935.5.9 金沙江'
+          {/* <AtListItem
+            title='党的五大'
+            note='1927'
             arrow='right' iconInfo={{
               size: 25,
               color: this.state.color5,
@@ -162,8 +162,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc5/Desc5', 5)}
           />
           <AtListItem
-            title='强渡大渡河'
-            note='1935.5.25~1935.6.2 四川大渡河'
+            title='党的六大'
+            note='1928'
             arrow='right' iconInfo={{
               size: 25,
               color: this.state.color6,
@@ -174,8 +174,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc6/Desc6', 6)}
           />
           <AtListItem
-            title='飞夺泸定桥'
-            note='1935.5.29 四川泸定桥'
+            title='党的七大'
+            note='1945'
             arrow='right' iconInfo={{
               size: 25,
               color: this.state.color7,
@@ -186,8 +186,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc7/Desc7', 7)}
           />
           <AtListItem
-            title='翻雪山'
-            note='1935.6.12~1935.7.8 四川夹金山'
+            title='党的八大'
+            note='1956'
             arrow='right' iconInfo={{
               size: 25,
               color: this.state.color8,
@@ -198,8 +198,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc8/Desc8', 8)}
           />
           <AtListItem
-            title='过草地'
-            note='1935.8.21 川西北若尔盖地区'
+            title='党的九大'
+            note='1964年底到1965年初'
             arrow='right' iconInfo={{
               size: 25,
               color: this.state.color9,
@@ -210,9 +210,9 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc9/Desc9', 9)}
           />
           <AtListItem
-            title='激战腊子口'
-            note='1935.9.13~1935.9.17 岷山腊子口'
-            arrow='right' 
+            title='党的十大'
+            note='1973'
+            arrow='right'
             iconInfo={{
               size: 25,
               color: this.state.color10,
@@ -223,8 +223,8 @@ export default class Index extends Component {
             onClick={this.turnto.bind(this, '../Desc/Desc10/Desc10', 10)}
           />
           <AtListItem
-            title='吴起会师'
-            note='1935.10  陕西省延安市吴起县'
+            title='党的十一大'
+            note='1977'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -235,8 +235,8 @@ export default class Index extends Component {
             arrow='right' onClick={this.turnto.bind(this, '../Desc/Desc11/Desc11', 11)}
           />
           <AtListItem
-            title='会宁会师'
-            note='1936.10 甘肃省白银市会宁县'
+            title='党的十二大'
+            note='1982'
             arrow='right'
             iconInfo={{
               size: 25,
@@ -245,7 +245,7 @@ export default class Index extends Component {
             }}
             extraText='详细信息'
             arrow='right' onClick={this.turnto.bind(this, '../Desc/Desc12/Desc12', 12)}
-          />
+          /> */}
         </AtList>
         <View> 　　</View>
       </view>

@@ -22,7 +22,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '王稼祥'
   }
@@ -39,7 +39,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1933年4月王稼祥遇空袭被炸穿了肠子——在没有麻药的情况下，忍着剧痛经历了八小时手术，当时人称胜过关公刮骨疗毒。因无法取出弹片，只好采取保守疗法。翌年1月，他当选中央政治局候补委员。同年秋，他腹部通着管子、坐着担架参加了长征。在长征担架上，王稼祥向毛泽东表示：这样下去不行，应该让不了解中国国情的德籍顾问李德下台\n

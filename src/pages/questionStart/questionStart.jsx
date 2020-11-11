@@ -15,6 +15,14 @@ export default class Question1 extends Component {
     prostatus: 'progress',
     question: [
       {
+        content: '中国共产党的创建时间是（）',
+        A: '1921年5月15日',
+        B: '1921年6月3日',
+        C: '1921年7月23日',
+        D: '1921年8月10日',
+        answeer: 'C'
+      },
+      {
         content: '中国工农红军长征的三大主力是（）',
         A: '中央红军、红二四方面军',
         B: '红一二三方面军',
@@ -129,6 +137,14 @@ export default class Question1 extends Component {
     }
   }
 
+  length(array){
+    let i = 0
+    while(array[i]){
+      i++;
+    }
+    return i
+  }
+
   componentWillMount() { }
 
   componentDidMount() { }
@@ -166,7 +182,7 @@ export default class Question1 extends Component {
         <View style='height:4vh;'></View>
         <View>
           <AtProgress
-            percent={this.state.startindex}
+            percent={parseInt(this.state.startindex/this.length(this.state.question)*100)}
             color='#f8ac4a'
             status={this.state.prostatus}
             strokeWidth={12}

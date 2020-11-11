@@ -22,7 +22,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '刘少奇'
   }
@@ -39,7 +39,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1932年冬进入位于江西省南部和福建省西部的中央革命根据地，领导职工运动，后任中共福建省委书记。\n

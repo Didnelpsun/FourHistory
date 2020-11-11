@@ -52,7 +52,7 @@ export default class Questionbank extends Component {
   render() {
     const s1 = {
       opacity: this.state.show,
-      backgroundImage:"url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575045320791&di=81f9afa8cfa6c97607c65066bff402cd&imgtype=0&src=http%3A%2F%2Fr2.ykimg.com%2F050E0000521DB6746758392C3B05D99D')"
+      backgroundImage:"url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605091961082&di=8578d578c1ee1345fdae775e180c4de0&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fbaike%2Fpic%2Fitem%2Fd1a20cf431adcbefe4e89d94a7af2edda2cc9f40.jpg')"
     }
     const s2 = {
       opacity: this.state.start

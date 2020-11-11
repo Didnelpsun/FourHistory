@@ -24,7 +24,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '刘伯承'
   }
@@ -41,7 +41,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1932年1月前往中央苏区首府瑞金，任中央军事政治学校校长兼政治委员。10月任中国工农红军总参谋长，协助朱德、周恩来在前方指挥作战，取得第四次反“围剿”作战的胜利。期间，撰写《现在游击队要解答的问题》、《到敌人后方开展游击战争的几个教训》等，并翻译多篇苏军教材和理论文章，促进了红军干部军事素质的提高。\n

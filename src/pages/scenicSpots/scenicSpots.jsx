@@ -433,7 +433,7 @@ export default class Scenicspots extends Component {
        </AtModal>
        <View onClick={this.handleOpen9.bind(this)}>
        <BoxS
-         path='https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=70713217,1665610114&fm=26&gp=0.jpg'
+         path='https://bkimg.cdn.bcebos.com/pic/d0c8a786c9177f3e2d66a25b77cf3bc79f3d5611?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg'
          title='安顺场'
          content='四川省石棉县安顺场地区'
        />

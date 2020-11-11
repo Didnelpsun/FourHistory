@@ -22,63 +22,63 @@ export default class Importantpeople extends Component {
   render () {
     return (
       <View className='importantPeople'>
-        <People 
-          path='https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=a15086bc31adcbef01347900949449e0/aec379310a55b3199a363d0d43a98226cefc17fe.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087224816&di=bab2cc6284da0e12a2e432b06f24f406&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20111024%2FImg323217628.jpg'
           name='毛泽东'
           page='../peopleInformation/MaoZeDong/MaoZeDong'
         />
-        <People 
-          path='https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e161a7814836acaf59e091fa44e2ea2d/b219ebc4b74543a9a8a81e741d178a82b80114d2.jpg'
+        <People
+          path='https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2801619574,2805911496&fm=26&gp=0.jpg'
           name='周恩来'
           page='../peopleInformation/ZhouEnLai/ZhouEnLai'
         />
-        <People 
-          path='https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=5162d3485cafa40f3cc6c9db935f6472/adaf2edda3cc7cd9af8250a33f01213fb80e9118.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087122033&di=55dff5b3e7148ee1b829447d5a4104dd&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20161204%2FImg474898408.jpg'
           name='彭德怀'
           page='../peopleInformation/PengDeHuai/PengDeHuai'
         />
-        <People 
-          path='https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=0f8077a27d1ed21b79c929e39555baf9/14ce36d3d539b600b2e7e9e7e950352ac65cb7b1.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087159856&di=cf7f171e4820c5927a0bac9400b97e47&imgtype=0&src=http%3A%2F%2Fenping.66dd.xin%2Fupload_files%2Fother%2F613_20180620040641_myt4i.jpg'
           name='朱德'
           page='../peopleInformation/ZhuDe/ZhuDe'
         />
-        <People 
-          path='https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=3bc71dd9d788d43ff0a996f44525b526/359b033b5bb5c9ead20ab94fd439b6003bf3b3a5.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087294697&di=5c5826f2f04c254c7247907c913eda42&imgtype=0&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D2099958311%2C478797841%26fm%3D214%26gp%3D0.jpg'
           name='王若飞'
           page='../peopleInformation/WangRuoFei/WangRuoFei'
         />
-        <People 
-          path='https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e0707a90c7bf6c81f7372bee8405d608/a1ec08fa513d2697251c96a55efbb2fb4216d87f.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087327097&di=db32624f26a0907f8995f0fb57256c9c&imgtype=0&src=http%3A%2F%2Fy0.ifengimg.com%2F958dcda298b573f7%2F2013%2F0113%2Frdn_50f21fc89c87a.jpg'
           name='博古'
           page='../peopleInformation/BoGu/BoGu'
         />
-        <People 
-          path='https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=53a3af00b70e7bec23da04e71715de05/4b90f603738da97753b03d24bf51f8198618e326.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087422807&di=1cf931da51a64e74e39bd77196e10e9d&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fbaike%2Fpic%2Fitem%2F962bd40735fae6cd40d4008d05b30f2443a70ffd.jpg'
           name='刘伯承'
           page='../peopleInformation/LiuBoCheng/LiuBoCheng'
         />
-        <People 
-          path='https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=394f1d2095cad1c8d0bbfb2147050034/9922720e0cf3d7ca72ca3279f21fbe096b63a984.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087500027&di=c9b0471ac3ab439275ddbd74a9fdec8b&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20111121%2FImg326329327.jpg'
           name='刘少奇'
           page='../peopleInformation/LiuShaoQi/LiuShaoQi'
         />
-        <People 
-          path='https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=88b52bab0055b3199cf985737b92e51b/55e736d12f2eb938bc261d58df628535e4dd6fd4.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087523508&di=16c3948dd6935be34fd1be3954d9f86c&imgtype=0&src=http%3A%2F%2Fi.ce.cn%2Fce%2Fxwzx%2Fgnsz%2Fgdxw%2F201910%2F11%2FW020191011367172394182.jpg'
           name='张闻天'
           page='../peopleInformation/ZhangWenTian/ZhangWenTian'
         />
-        <People 
-          path='https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=00f0b0cf46fbfbeddc59317940cb900b/a2cc7cd98d1001e9635e35ffb50e7bec55e797db.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087558600&di=90f076521173df7fbac78660d397ae79&imgtype=0&src=http%3A%2F%2Fwww.people.com.cn%2Fmediafile%2Fpic%2F20141127%2F75%2F10352381580997291711.jpg'
           name='贺子珍'
           page='../peopleInformation/HeZiZhen/HeZiZhen'
         />
-        <People 
-          path='https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=1da7851ba418972ba33a07ccdef61cb4/9213b07eca806538c1661d1c98dda144ad348235.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087622775&di=0208e3fe684c82acfce908c5378f1246&imgtype=0&src=http%3A%2F%2Fimg.ifeng.com%2Fres%2F200808%2F0805_428762.jpg'
           name='叶剑英'
           page='../peopleInformation/YeJianYing/YeJianYing'
         />
-        <People 
-          path='https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=bf37bb22d12a283447a631096bb5c92e/7aec54e736d12f2e6656055f4ac2d562853568ba.jpg'
+        <People
+          path='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605087649611&di=ac61dc347a8f3f89225612c28d131973&imgtype=0&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D1045890018%2C3222130790%26fm%3D214%26gp%3D0.jpg'
           name='王稼祥'
           page='../peopleInformation/WangJiaXiang/WangJiaXiang'
         />

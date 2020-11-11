@@ -23,7 +23,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '叶剑英'
   }
@@ -40,7 +40,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1934年10月，中央红军进行长征。叶剑英任军委第一纵队司令员。部队进入广西山区，他在一次敌机轰炸中负伤，带伤坚持行军、作战。\n

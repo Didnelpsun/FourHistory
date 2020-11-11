@@ -23,7 +23,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '王若飞'
   }
@@ -40,7 +40,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1931年，王若飞回国就任中共西北特委特派员，参与了领导西北地区包括陕、甘、宁、晋、绥、新等地农民斗争，开展土地革命。\n
@@ -68,9 +68,9 @@ export default class MaoZeDong extends Component {
           title='人物评价'
           thumb={pdes}
         >
-          中共早期领导人罗亦农这样评价王若飞：“头脑敏锐，分析问题透彻、深刻，有雄才大略，善于联络人——他像’黏合剂‘一样把大家团结起来。“ 
+          中共早期领导人罗亦农这样评价王若飞：“头脑敏锐，分析问题透彻、深刻，有雄才大略，善于联络人——他像’黏合剂‘一样把大家团结起来。“
 2009年，王若飞被中央宣传部、中央组织部等11个部门评为“100位为新中国成立作出突出贡献的英雄模范人物”。
-邓毛毛在《我的父亲邓小平》一书中写道：”若飞其人聪明好学，思想敏锐，性格开朗，待人随和，在敌人狱中坚强不屈，大义凛然。” 
+邓毛毛在《我的父亲邓小平》一书中写道：”若飞其人聪明好学，思想敏锐，性格开朗，待人随和，在敌人狱中坚强不屈，大义凛然。”
 傅作义这样评价王若飞：“共产党员王若飞，那才是个人才哩！”
         </AtCard>
         <View>　</View>

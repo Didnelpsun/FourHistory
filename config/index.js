@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'changzheng',
-  date: '2019-11-17',
+  projectName: 'FourHistory',
+  date: '2020-11-11',
   designWidth: 750,
   deviceRatio: {
     '640': 2.34 / 2,

@@ -21,7 +21,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '贺子珍'
   }
@@ -38,7 +38,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1935年参加红军长征。在长征路上，为掩护伤员，头、背、肺部被炸入弹片，终生没有取出。1950年被定为三级甲等残疾，但终生没有领取残疾军人抚恤金。\n

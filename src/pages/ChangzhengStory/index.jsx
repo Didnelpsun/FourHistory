@@ -97,7 +97,7 @@ var app = Taro.getApp()
 
 class _C extends Taro.Component {
   config = {
-    navigationBarTitleText: '长征小故事'
+    navigationBarTitleText: '中共小故事'
   }
 
   render() {
@@ -121,7 +121,7 @@ class _C extends Taro.Component {
                 <View className="card_info">
                   {/* <Blockquote className="card_info_mes_title">
                     {/* {item.cardInfo.cardTitle} */}
-                  {/* </Blockquote> */} 
+                  {/* </Blockquote> */}
                   <View className="title" onClick={this.slidethis}>
                     {item.cardInfo.cardTitle}
                   </View>

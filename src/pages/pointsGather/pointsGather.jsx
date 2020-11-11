@@ -80,7 +80,7 @@ export default class Pointsgather extends Component {
             },
             {
               image: 'https://i.ibb.co/3zMW2s6/lishiziliao.png',
-              value: '珍贵历史资料'
+              value: '照片资料'
             },
             {
               image: 'https://i.ibb.co/NsW24nV/Video-Camera-I.png',
@@ -92,20 +92,20 @@ export default class Pointsgather extends Component {
             },
             {
               image: 'https://i.ibb.co/CWNpccV/Numbered-list.png',
-              value: '数字长征'
+              value: '数字新中国史'
             },
             {
               image: 'https://i.ibb.co/2FvBbY1/Story.png',
-              value: '长征小故事'
+              value: '中共小故事'
             },
             {
               image: 'https://i.ibb.co/4tjschd/test.png',
               value: '题库答题'
             },
-            {
-              image: 'https://i.ibb.co/h7FxJP1/Reports.png',
-              value: '长征路难'
-            },
+            // {
+            //   image: 'https://i.ibb.co/h7FxJP1/Reports.png',
+            //   value: '长征路难'
+            // },
           ]
         }
           onClick={this.onClick}

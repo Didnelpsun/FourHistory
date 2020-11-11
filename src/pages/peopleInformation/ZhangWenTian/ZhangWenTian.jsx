@@ -22,7 +22,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '张闻天'
   }
@@ -39,7 +39,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1933年初，随中央机关从上海迁入江西中央革命根据地。1934年1月，在中共六届五中全会上当选为中央政治局委员、中央书记处书记。2月，在中华苏维埃二大上当选为中央政府人民委员会主席。1934年10月参加长征。\n

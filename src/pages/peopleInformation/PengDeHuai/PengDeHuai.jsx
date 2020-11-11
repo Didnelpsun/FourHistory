@@ -24,7 +24,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '彭德怀'
   }
@@ -41,7 +41,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1934年1月补选为中共第六届候补中央委员；长征开始后，率部连续突破国民党军四道封锁线，掩护中央纵队、军委纵队渡过湘江。在1935年1月举行的遵义会议上，拥护毛泽东的主张。会后率红3军团二渡赤水河，神速回师攻占娄山关，并协同红1军团再克遵义城，歼灭大量反扑之敌，取得红一方面军长征中的第一个大胜利。\n

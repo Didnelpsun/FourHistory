@@ -21,7 +21,7 @@ export default class MaoZeDong extends Component {
   componentDidShow() { }
 
   componentDidHide() { }
-  
+
   config = {
     navigationBarTitleText: '博古'
   }
@@ -38,7 +38,7 @@ export default class MaoZeDong extends Component {
         </AtCard>
         <View>　</View>
         <AtCard
-          title='他/她与长征'
+          title='人生轨迹'
           thumb={cz}
         >
           <View> 　　1934年1月，在党的六届五中全会上，博古当选中央委员，政治局的博古、周恩来、张闻天与项英4人未经中委选举，但五中全会政治局常委（有时也称书记）的名单是经共产国际批准并有所增减的，手续不完备，但合法。\n
