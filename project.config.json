@@ -1,0 +1,82 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "%E9%95%BF%E5%BE%81%E6%9C%80%E6%96%B0",
+	"description": "",
+	"appid": "wx9a439e1242e58560",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "点集",
+					"pathName": "pages/pointsGather/pointsGather",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "答题",
+					"pathName": "pages/questionBank/questionBank",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "开始",
+					"pathName": "pages/questionStart/questionStart",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "景点",
+					"pathName": "pages/scenicSpots/scenicSpots",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "数字长征",
+					"pathName": "pages/digitalizeChangzheng/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "长征小故事",
+					"pathName": "pages/ChangzhengStory/index",
+					"scene": null
+				}
+			]
+		}
+	}
+}
